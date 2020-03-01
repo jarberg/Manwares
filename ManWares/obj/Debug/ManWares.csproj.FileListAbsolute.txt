@@ -1,0 +1,10 @@
+C:\Users\Michael\RiderProjects\ManWares\ManWares\bin\Debug\ManWares.exe.config
+C:\Users\Michael\RiderProjects\ManWares\ManWares\bin\Debug\ManWares.exe
+C:\Users\Michael\RiderProjects\ManWares\ManWares\bin\Debug\ManWares.pdb
+C:\Users\Michael\RiderProjects\ManWares\ManWares\obj\Debug\ManWares.csprojAssemblyReference.cache
+C:\Users\Michael\RiderProjects\ManWares\ManWares\obj\Debug\ManWares.Properties.Resources.resources
+C:\Users\Michael\RiderProjects\ManWares\ManWares\obj\Debug\ManWares.csproj.GenerateResource.cache
+C:\Users\Michael\RiderProjects\ManWares\ManWares\obj\Debug\ManWares.csproj.CoreCompileInputs.cache
+C:\Users\Michael\RiderProjects\ManWares\ManWares\obj\Debug\ManWares.exe
+C:\Users\Michael\RiderProjects\ManWares\ManWares\obj\Debug\ManWares.pdb
+C:\Users\Michael\RiderProjects\ManWares\ManWares\obj\Debug\ManWares.Form1.resources
